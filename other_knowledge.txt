@@ -1,4 +1,6 @@
-Cannot finish my goal with only programming language 
-There are more skills that i should must have ------
--- Reverse engenering
--- Master in multiple language ...But English and arabic is must .....mandarin is optional 
+Need to learn python 
+code example :
+fu = 10 ; 
+k = 2 ; 
+print(fu*k) 
+.........out knowledge is done............
